@@ -35,7 +35,7 @@
     "@types/node": "^8.9.5",
     "@types/office-js": "^1.0.75",
     "@types/office-js-preview": "^1.0.80",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^3.4.1",
     "codelyzer": "~4.5.0",
     "jasmine-core": "~2.99.1",
